@@ -15,5 +15,8 @@
   "description": "",
   "devDependencies": {
     "prettier": "^3.8.3"
+  },
+  "dependencies": {
+    "react-router": "^7.15.1"
   }
 }
